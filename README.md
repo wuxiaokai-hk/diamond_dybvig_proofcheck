@@ -1,0 +1,1 @@
+# diamond_dybvig_proofcheck
