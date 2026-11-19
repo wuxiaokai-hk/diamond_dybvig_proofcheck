@@ -72,3 +72,7 @@ results/              one file per result; dependencies are imports
 run_all.py            topological run + REPORT.md
 inventory.md          every formal result, where it is and what it uses
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE). Free to use, change and share. Data downloaded from public sources stay under their providers' terms. Independent open-source project, not affiliated with or endorsed by any employer, regulator or data vendor.
